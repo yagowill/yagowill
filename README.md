@@ -1,4 +1,4 @@
-## Oi eu sou Yago Martins, estudante de ciências da computação, aspirante a desenvolvedor Front-End👋 
+## Oi eu sou Yago Martins, estudante de ciências da computação, desenvolvedor Front-End Jr👋 
 
 <div align="center">
   <a href="https://github.com/yagowill">
