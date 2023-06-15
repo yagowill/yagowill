@@ -1,10 +1,9 @@
 ## Oi eu sou Yago Martins, estudante de ciências da computação👋
 
 ### Atualmente estou estudando📖:
-- Orientação a Objetos com Java
-- Desenvolvimento Web Back-End com Java e Spring
-- Data Science com Python e Pandas
-- IoT com Esp32 na plataforma Arduino
+- Desenvolvimento back-end PHP
+- VUE.JS
+- Automação web com Python e selenium webdriver
   
 ### Tenho conhecimentos em📚:
 - Desenvolvimento Front-End com HTML, CSS e JavaScript
