@@ -1,8 +1,6 @@
 ## Oi eu sou Yago Martins, estudante de ciências da computação👋
 
 ### Atualmente estou estudando📖:
-- Desenvolvimento back-end PHP
-- VUE.JS
 - Automação web com Python e selenium webdriver
   
 ### Tenho conhecimentos em📚:
